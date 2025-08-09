@@ -1,0 +1,15 @@
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\bin\Debug\net9.0\RoverControlCenter.exe
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\bin\Debug\net9.0\RoverControlCenter.deps.json
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\bin\Debug\net9.0\RoverControlCenter.runtimeconfig.json
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\bin\Debug\net9.0\RoverControlCenter.dll
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\bin\Debug\net9.0\RoverControlCenter.pdb
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\obj\Debug\net9.0\RoverControlCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\obj\Debug\net9.0\RoverControlCenter.AssemblyInfoInputs.cache
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\obj\Debug\net9.0\RoverControlCenter.AssemblyInfo.cs
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\obj\Debug\net9.0\RoverControlCenter.csproj.CoreCompileInputs.cache
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\obj\Debug\net9.0\RoverControlCenter.sourcelink.json
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\obj\Debug\net9.0\RoverControlCenter.dll
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\obj\Debug\net9.0\refint\RoverControlCenter.dll
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\obj\Debug\net9.0\RoverControlCenter.pdb
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\obj\Debug\net9.0\RoverControlCenter.genruntimeconfig.cache
+D:\c sharp\projects\RoverControlCenter\RoverControlCenter\obj\Debug\net9.0\ref\RoverControlCenter.dll
